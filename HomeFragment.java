@@ -1,4 +1,3 @@
-package com.drive.drive_driver.fragments;
 
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
